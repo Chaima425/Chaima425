@@ -1,4 +1,4 @@
-# Hi, I'm Chaima HADDAD 👋
+# Chaima HADDAD 👋
 
 ### AI & Data Engineer | Python • AI/ML • LLM/RAG • Data Engineering • Big Data
 
